@@ -9,7 +9,7 @@ def binarySearch(dizi,hedef):
             buyuk=orta-1
         else:
             kucuk=orta+1
-    return -1;
+    return -1
 dizi=([13,22,33,44,55,66])
 indis=binarySearch(dizi,33)
 if indis==-1:
